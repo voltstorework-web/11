@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Tai Lung Label Generator",
+  "description": "An application to generate labels from a PDF of codes and an image. Users can upload a PDF with codes, an image, adjust layout options like zoom and margins, and generate a new PDF with custom labels.",
+  "requestFramePermissions": []
+}
